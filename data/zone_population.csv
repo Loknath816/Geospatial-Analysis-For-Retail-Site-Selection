@@ -1,0 +1,8 @@
+zone,name,pop_density,literacy_rate,households,working_pop_pct
+North,Hebbal / Yelahanka,12500,0.79,95000,0.44
+South,JP Nagar / Jayanagar,16000,0.87,180000,0.46
+East,Indiranagar / Whitefield,14000,0.85,220000,0.5
+South East,Koramangala / HSR,13500,0.86,210000,0.52
+West,Rajajinagar / Vijayanagar,18000,0.82,150000,0.43
+North West,Malleswaram / Yeshwanthpur,17500,0.83,160000,0.44
+South West,Banashankari / Kanakapura,11000,0.78,130000,0.42
