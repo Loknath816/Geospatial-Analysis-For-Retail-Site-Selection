@@ -1,0 +1,31 @@
+site_id,name,zone,lat,lon,area_sqft,monthly_rent,parking_slots,road_width_m,frontage_ft,floors
+S001,Koramangala 5th Block,Bommanahalli,12.9352,77.6245,3500,250000,12,18,45,2
+S002,Indiranagar 100ft Road,East,12.9784,77.6408,4200,310000,8,24,50,3
+S003,Whitefield ITPL Junction,Mahadevapura,12.9698,77.7499,5000,190000,25,30,60,2
+S004,Electronic City Phase 1,Bommanahalli,12.8458,77.6643,6000,150000,30,24,65,1
+S005,Jayanagar 4th Block,South,12.9257,77.5937,3800,220000,10,18,40,2
+S006,Marathahalli Bridge ORR,Mahadevapura,12.9591,77.7007,4500,210000,15,36,55,2
+S007,BTM Layout 2nd Stage,Bommanahalli,12.9166,77.6101,3200,180000,8,15,35,2
+S008,HSR Layout Sector 6 (27th Main),Bommanahalli,12.9116,77.6389,3600,200000,10,20,45,2
+S009,Hebbal Flyover Junction,North,13.0353,77.5967,7000,230000,35,45,80,2
+S010,Yeshwanthpur Circle,West,13.021,77.5539,5500,185000,20,30,50,2
+S011,Banashankari Bus Stand,South,12.922,77.5546,4100,175000,12,20,45,2
+S012,Rajajinagar 1st Block,West,12.9915,77.5524,4800,210000,14,18,48,3
+S013,Malleswaram 8th Cross,West,13.0035,77.5646,3000,195000,6,14,30,3
+S014,JP Nagar 7th Phase,South,12.9063,77.5847,5200,165000,18,18,52,2
+S015,Sarjapur Road ORR Junction,Mahadevapura,12.9141,77.6849,6500,220000,28,36,70,2
+S016,Bellandur Central ORR (opp Ecospace),Mahadevapura,12.9265,77.682,4800,280000,20,45,60,2
+S017,Commercial Street Main Corridor,East,12.982,77.608,2500,320000,4,12,30,3
+S018,Brigade Road Central Strip,East,12.973,77.6075,2800,380000,5,18,35,3
+S019,Koramangala 4th Block (80ft Rd),Bommanahalli,12.934,77.631,3800,260000,14,24,50,2
+S020,Yelahanka New Town Major Arterial,North,13.097,77.595,5500,140000,25,30,60,2
+S021,Sahakarnagar Main Road,North,13.062,77.592,4000,175000,15,20,45,2
+S022,Thanisandra Main Road (near Manyata),North,13.048,77.627,4500,160000,18,24,50,2
+S023,Kalyan Nagar HRBR 80ft Road,North,13.0185,77.6455,3600,190000,12,24,45,2
+S024,Bannerghatta Road (Arekere Junction),South,12.89,77.5975,5000,185000,22,30,55,2
+S025,Kanakapura Road (Konanakunte Cross),South,12.8845,77.567,5200,170000,24,30,55,2
+S026,Basavanagudi Gandhi Bazaar Main,South,12.9425,77.574,2400,210000,4,14,30,2
+S027,Vijayanagar Club Road Commercial,West,12.9692,77.535,4200,175000,12,20,45,2
+S028,Electronic City Phase 2 Wipro Gate,Bommanahalli,12.8395,77.678,5000,135000,20,24,55,2
+S029,Kengeri Satellite Town Main,Rajarajeshwarinagar,12.916,77.484,4600,120000,20,24,50,2
+S030,Whitefield Nexus Shantiniketan Corridor,Mahadevapura,12.989,77.729,4500,225000,18,30,55,2

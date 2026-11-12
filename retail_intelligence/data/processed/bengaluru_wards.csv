@@ -1,0 +1,43 @@
+ward_id,name,zone,lat,lon,commercial_intensity,avg_rent_sqft
+W001,Indiranagar,East,12.9784,77.6408,Prime,130
+W002,Halasuru,East,12.981,77.6273,High,85
+W003,Frazer Town,East,12.9972,77.6133,High,90
+W004,Commercial Street / MG Road,East,12.9816,77.6077,Prime,150
+W005,Domlur,East,12.9609,77.6387,High,95
+W006,Koramangala 5th Block,Bommanahalli,12.9352,77.6245,Prime,140
+W007,Koramangala 7th Block,Bommanahalli,12.9372,77.618,Prime,135
+W008,HSR Layout Sector 1,Bommanahalli,12.918,77.648,High,95
+W009,HSR Layout Sector 6 (27th Main),Bommanahalli,12.9116,77.6389,Prime,115
+W010,BTM Layout 2nd Stage,Bommanahalli,12.9166,77.6101,High,85
+W011,Electronic City Phase 1,Bommanahalli,12.8458,77.6643,High,65
+W012,Electronic City Phase 2,Bommanahalli,12.839,77.68,Moderate,55
+W013,Begur Road,Bommanahalli,12.882,77.631,Moderate,60
+W014,Jayanagar 4th Block,South,12.9257,77.5937,Prime,110
+W015,JP Nagar 2nd Phase,South,12.912,77.589,High,85
+W016,JP Nagar 7th Phase,South,12.9063,77.5847,High,75
+W017,Basavanagudi (Gandhi Bazaar),South,12.9421,77.5747,High,95
+W018,Banashankari 2nd Stage,South,12.922,77.5546,High,70
+W019,Bannerghatta Road (Arekere),South,12.889,77.597,High,80
+W020,Kanakapura Road (Konanakunte),South,12.885,77.558,High,70
+W021,Whitefield ITPL Junction,Mahadevapura,12.9698,77.7499,Prime,95
+W022,Whitefield Inner Circle,Mahadevapura,12.97,77.75,High,85
+W023,Marathahalli Bridge / ORR,Mahadevapura,12.9591,77.7007,Prime,105
+W024,Bellandur Outer Ring Road,Mahadevapura,12.9304,77.6784,Prime,115
+W025,Sarjapur Road ORR Junction,Mahadevapura,12.9141,77.6849,Prime,100
+W026,Sarjapur Town / Carmelaram,Mahadevapura,12.905,77.712,Moderate,65
+W027,KR Puram,Mahadevapura,13.0075,77.6959,High,70
+W028,Hoodi Junction,Mahadevapura,12.9918,77.7161,High,75
+W029,Varthur Road,Mahadevapura,12.941,77.745,Moderate,60
+W030,Hebbal Flyover Junction,North,13.0353,77.5967,Prime,85
+W031,Yelahanka New Town,North,13.098,77.597,High,65
+W032,Sahakarnagar,North,13.061,77.591,High,75
+W033,Thanisandra Main Road,North,13.055,77.632,High,70
+W034,Hennur Road,North,13.038,77.643,High,70
+W035,Kalyan Nagar (HRBR Layout),North,13.018,77.646,High,90
+W036,Rajajinagar 1st Block,West,12.9915,77.5524,High,80
+W037,Malleswaram 8th Cross,West,13.0035,77.5646,Prime,110
+W038,Yeshwanthpur Circle,West,13.021,77.5539,High,75
+W039,Vijayanagar Club Road,West,12.969,77.534,High,75
+W040,Peenya 1st Stage,Dasarahalli,13.028,77.518,Moderate,50
+W041,RR Nagar Ideal Homes,Rajarajeshwarinagar,12.923,77.518,High,65
+W042,Kengeri Satellite Town,Rajarajeshwarinagar,12.915,77.483,Moderate,55

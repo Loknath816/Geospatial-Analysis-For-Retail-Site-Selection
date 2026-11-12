@@ -1,0 +1,186 @@
+{
+  "city_id": "bengaluru",
+  "city_name": "Bengaluru",
+  "alternate_names": [
+    "Bangalore",
+    "Bengaluru Urban"
+  ],
+  "state": "Karnataka",
+  "country": "India",
+  "currency": "INR",
+  "currency_symbol": "₹",
+  "timezone": "Asia/Kolkata",
+  "bounds": {
+    "min_lat": 12.75,
+    "max_lat": 13.25,
+    "min_lon": 77.40,
+    "max_lon": 77.85
+  },
+  "center": {
+    "lat": 12.9716,
+    "lon": 77.5946,
+    "default_zoom": 11
+  },
+  "administrative_structure": {
+    "municipal_corporation": "Bruhat Bengaluru Mahanagara Palike (BBMP)",
+    "total_zones": 8,
+    "total_wards": 198,
+    "metro_operator": "BMRCL (Namma Metro)",
+    "bus_operator": "BMTC"
+  },
+  "zones": [
+    {
+      "zone_id": "Z01",
+      "name": "East",
+      "key_areas": [
+        "Indiranagar",
+        "Halasuru",
+        "Cox Town",
+        "Frazer Town",
+        "Domlur",
+        "Old Airport Road"
+      ],
+      "pop_density": 16500,
+      "literacy_rate": 0.86,
+      "households": 220000,
+      "working_pop_pct": 0.51,
+      "commercial_intensity": "High",
+      "avg_commercial_rent_sqft": 95
+    },
+    {
+      "zone_id": "Z02",
+      "name": "West",
+      "key_areas": [
+        "Rajajinagar",
+        "Basaveshwaranagar",
+        "Vijayanagar",
+        "Mahalakshmi Layout",
+        "Govindraj Nagar"
+      ],
+      "pop_density": 19500,
+      "literacy_rate": 0.83,
+      "households": 240000,
+      "working_pop_pct": 0.45,
+      "commercial_intensity": "High",
+      "avg_commercial_rent_sqft": 75
+    },
+    {
+      "zone_id": "Z03",
+      "name": "South",
+      "key_areas": [
+        "Jayanagar",
+        "JP Nagar",
+        "Basavanagudi",
+        "Banashankari",
+        "Padmanabhanagar"
+      ],
+      "pop_density": 17200,
+      "literacy_rate": 0.88,
+      "households": 250000,
+      "working_pop_pct": 0.47,
+      "commercial_intensity": "Very High",
+      "avg_commercial_rent_sqft": 85
+    },
+    {
+      "zone_id": "Z04",
+      "name": "North",
+      "key_areas": [
+        "Hebbal",
+        "Yelahanka",
+        "Sahakarnagar",
+        "Thanisandra",
+        "Jakkur",
+        "Vidyaranyapura"
+      ],
+      "pop_density": 13200,
+      "literacy_rate": 0.81,
+      "households": 180000,
+      "working_pop_pct": 0.46,
+      "commercial_intensity": "Emerging",
+      "avg_commercial_rent_sqft": 65
+    },
+    {
+      "zone_id": "Z05",
+      "name": "Mahadevapura",
+      "key_areas": [
+        "Whitefield",
+        "Marathahalli",
+        "Bellandur",
+        "Outer Ring Road (ORR)",
+        "Kadugodi",
+        "Hoodi",
+        "Varthur"
+      ],
+      "pop_density": 14800,
+      "literacy_rate": 0.87,
+      "households": 260000,
+      "working_pop_pct": 0.55,
+      "commercial_intensity": "Very High",
+      "avg_commercial_rent_sqft": 90
+    },
+    {
+      "zone_id": "Z06",
+      "name": "Bommanahalli",
+      "key_areas": [
+        "Koramangala",
+        "HSR Layout",
+        "BTM Layout",
+        "Begur",
+        "Bommanahalli",
+        "Electronic City Ph 1 & 2"
+      ],
+      "pop_density": 15800,
+      "literacy_rate": 0.87,
+      "households": 280000,
+      "working_pop_pct": 0.54,
+      "commercial_intensity": "Very High",
+      "avg_commercial_rent_sqft": 105
+    },
+    {
+      "zone_id": "Z07",
+      "name": "Dasarahalli",
+      "key_areas": [
+        "Peenya",
+        "Dasarahalli",
+        "Jalahalli",
+        "Chokkasandra",
+        "Bagalagunte"
+      ],
+      "pop_density": 14500,
+      "literacy_rate": 0.79,
+      "households": 130000,
+      "working_pop_pct": 0.44,
+      "commercial_intensity": "Moderate",
+      "avg_commercial_rent_sqft": 55
+    },
+    {
+      "zone_id": "Z08",
+      "name": "Rajarajeshwarinagar",
+      "key_areas": [
+        "RR Nagar",
+        "Kengeri",
+        "Nagarbhavi",
+        "Nayandahalli",
+        "Mysore Road"
+      ],
+      "pop_density": 12800,
+      "literacy_rate": 0.82,
+      "households": 150000,
+      "working_pop_pct": 0.43,
+      "commercial_intensity": "Moderate",
+      "avg_commercial_rent_sqft": 58
+    }
+  ],
+  "macro_indicators_2025_2026": {
+    "total_registered_vehicles": 12000000,
+    "new_vehicles_fy25_26": 790000,
+    "metro_peak_daily_ridership": 1048000,
+    "active_metro_lines": [
+      "Purple Line",
+      "Green Line",
+      "Yellow Line"
+    ],
+    "total_metro_stations_active": 75,
+    "estimated_metro_commuters_daily": 950000
+  }
+}

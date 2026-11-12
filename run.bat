@@ -1,16 +1,18 @@
 @echo off
-echo ============================================
-echo   Retail Site Selector — Bangalore
-echo   CSS7102 Mini Project
-echo ============================================
+echo ========================================================
+echo   GeoRetail AI Enterprise Platform -- Bengaluru
+echo   Retail Intelligence and Location Decision System
+echo ========================================================
 echo.
-echo [1/3] Checking Python...
-python --version
-echo.
-echo [2/3] Installing requirements...
-pip install -r requirements.txt
-echo.
-echo [3/3] Launching dashboard on http://localhost:8501
-echo.
-streamlit run app.py
+if exist ".\.venv\Scripts\streamlit.exe" (
+    echo [1/2] Using project virtual environment .venv...
+    echo [2/2] Launching GeoRetail AI dashboard on http://localhost:8501 ...
+    echo.
+    .\.venv\Scripts\streamlit.exe run app.py
+) else (
+    echo [1/2] Virtual environment not found, attempting global streamlit...
+    echo [2/2] Launching dashboard on http://localhost:8501 ...
+    echo.
+    streamlit run app.py
+)
 pause

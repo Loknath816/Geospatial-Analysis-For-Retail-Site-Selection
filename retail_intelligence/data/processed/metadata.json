@@ -1,0 +1,91 @@
+{
+  "bengaluru_zones.csv": {
+    "source": "BBMP Restructuring & Census Operations",
+    "description": "8 official administrative zones with demographic estimates and commercial rental baselines",
+    "record_count": 8,
+    "columns": [
+      "zone_id",
+      "name",
+      "pop_density",
+      "literacy_rate",
+      "households",
+      "working_pop_pct",
+      "avg_rent_sqft"
+    ],
+    "last_processed_utc": "2026-11-12T08:37:02.812083Z"
+  },
+  "bengaluru_wards.csv": {
+    "source": "Bengaluru Commercial Real Estate Survey & OpenCity",
+    "description": "42 primary commercial, transit, and residential hubs spanning all 8 BBMP zones",
+    "record_count": 42,
+    "columns": [
+      "ward_id",
+      "name",
+      "zone",
+      "lat",
+      "lon",
+      "commercial_intensity",
+      "avg_rent_sqft"
+    ],
+    "last_processed_utc": "2026-11-12T08:37:02.818551Z"
+  },
+  "bengaluru_pois.csv": {
+    "source": "OpenStreetMap, Google Places & Commercial Field Audits",
+    "description": "55+ verified commercial, retail, educational, and healthcare gravity anchors with verified coordinates",
+    "record_count": 56,
+    "columns": [
+      "name",
+      "category",
+      "lat",
+      "lon",
+      "footfall_weight"
+    ],
+    "last_processed_utc": "2026-11-12T08:37:02.825884Z"
+  },
+  "bengaluru_competitors.csv": {
+    "source": "OpenStreetMap, Brand Store Finders & Real-Estate Surveys",
+    "description": "Multi-category competitor records (Supermarket, Cafe, Pharmacy, Fashion, Electronics, Fitness, Bakery)",
+    "record_count": 74,
+    "columns": [
+      "name",
+      "chain",
+      "category",
+      "lat",
+      "lon",
+      "type"
+    ],
+    "last_processed_utc": "2026-11-12T08:37:02.832909Z"
+  },
+  "bengaluru_transit.csv": {
+    "source": "BMRCL Official Station Catalog & BMTC TTMC Registry",
+    "description": "85+ verified rapid transit and bus transit nodes covering Purple, Green, Yellow lines and major TTMC interchanges",
+    "record_count": 91,
+    "columns": [
+      "name",
+      "type",
+      "lat",
+      "lon",
+      "line"
+    ],
+    "last_processed_utc": "2026-11-12T08:37:02.841292Z"
+  },
+  "bengaluru_candidate_sites.csv": {
+    "source": "Commercial Property Listings & Geospatial Stratified Sampling",
+    "description": "30 verified candidate retail locations covering core, high-street, and peripheral growth corridors",
+    "record_count": 30,
+    "columns": [
+      "site_id",
+      "name",
+      "zone",
+      "lat",
+      "lon",
+      "area_sqft",
+      "monthly_rent",
+      "parking_slots",
+      "road_width_m",
+      "frontage_ft",
+      "floors"
+    ],
+    "last_processed_utc": "2026-11-12T08:37:02.849258Z"
+  }
+}

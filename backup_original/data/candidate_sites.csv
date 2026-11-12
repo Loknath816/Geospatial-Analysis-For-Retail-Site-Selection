@@ -1,0 +1,16 @@
+site_id,name,zone,lat,lon,area_sqft,monthly_rent
+S001,Koramangala 5th Block,South East,12.9352,77.6245,3500,250000
+S002,Indiranagar 100ft Road,East,12.9784,77.6408,4200,310000
+S003,Whitefield ITPL Junction,East,12.9698,77.7499,5000,190000
+S004,Electronic City Phase 1,South,12.8458,77.6643,6000,150000
+S005,Jayanagar 4th Block,South,12.9257,77.5937,3800,220000
+S006,Marathahalli Bridge,East,12.9591,77.7007,4500,210000
+S007,BTM Layout 2nd Stage,South,12.9166,77.6101,3200,180000
+S008,HSR Layout Sector 6,South East,12.9116,77.6389,3600,200000
+S009,Hebbal Flyover Junction,North,13.0353,77.5967,7000,230000
+S010,Yeshwanthpur Circle,North West,13.021,77.5539,5500,185000
+S011,Banashankari Bus Stand,South West,12.922,77.5546,4100,175000
+S012,Rajajinagar 1st Block,West,12.9915,77.5524,4800,210000
+S013,Malleswaram 8th Cross,North West,13.0035,77.5646,3000,195000
+S014,JP Nagar 7th Phase,South West,12.9063,77.5847,5200,165000
+S015,Sarjapur Road ORR Junction,South East,12.9141,77.6849,6500,220000

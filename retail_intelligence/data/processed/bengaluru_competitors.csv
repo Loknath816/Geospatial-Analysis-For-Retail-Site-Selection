@@ -1,0 +1,75 @@
+name,chain,category,lat,lon,type
+DMart HSR Layout,DMart,supermarket,12.909,77.643,Hypermarket
+DMart Whitefield,DMart,supermarket,12.9701,77.7412,Hypermarket
+DMart JP Nagar,DMart,supermarket,12.901,77.578,Hypermarket
+DMart Hebbal,DMart,supermarket,13.0401,77.589,Hypermarket
+DMart Electronic City,DMart,supermarket,12.835,77.671,Hypermarket
+DMart Banashankari,DMart,supermarket,12.915,77.545,Hypermarket
+Smart Bazaar Koramangala (formerly Big Bazaar),Smart Bazaar,supermarket,12.934,77.626,Hypermarket
+Smart Bazaar Marathahalli,Smart Bazaar,supermarket,12.956,77.699,Hypermarket
+Smart Bazaar Malleswaram,Smart Bazaar,supermarket,13.002,77.57,Hypermarket
+Reliance Fresh / Smart Indiranagar,Reliance Smart,supermarket,12.98,77.638,Supermarket
+Reliance Smart Koramangala,Reliance Smart,supermarket,12.93,77.62,Supermarket
+Reliance Smart Rajajinagar,Reliance Smart,supermarket,12.994,77.549,Supermarket
+Reliance Smart Electronic City,Reliance Smart,supermarket,12.842,77.668,Supermarket
+Reliance Smart Yeshwanthpur,Reliance Smart,supermarket,13.025,77.55,Supermarket
+More Supermarket Jayanagar,More,supermarket,12.92,77.599,Supermarket
+More Supermarket Banashankari,More,supermarket,12.925,77.562,Supermarket
+More Supermarket BTM Layout,More,supermarket,12.918,77.609,Supermarket
+More Supermarket Bellandur,More,supermarket,12.931,77.675,Supermarket
+Spar Hypermarket Marathahalli,Spar,supermarket,12.961,77.702,Hypermarket
+Star Bazaar Whitefield,Star Bazaar,supermarket,12.965,77.748,Hypermarket
+Star Bazaar Hebbal,Star Bazaar,supermarket,13.032,77.595,Hypermarket
+Nature's Basket Koramangala,Nature's Basket,supermarket,12.934,77.621,Gourmet Supermarket
+Nature's Basket Indiranagar,Nature's Basket,supermarket,12.977,77.641,Gourmet Supermarket
+Third Wave Coffee Koramangala 4th Block,Third Wave Coffee,cafe_qsr,12.933,77.631,Specialty Coffee
+Third Wave Coffee Indiranagar 12th Main,Third Wave Coffee,cafe_qsr,12.973,77.643,Specialty Coffee
+Third Wave Coffee HSR Layout 27th Main,Third Wave Coffee,cafe_qsr,12.9125,77.6415,Specialty Coffee
+Third Wave Coffee Bellandur,Third Wave Coffee,cafe_qsr,12.928,77.681,Specialty Coffee
+Blue Tokai Coffee Roasters Koramangala,Blue Tokai,cafe_qsr,12.9345,77.622,Specialty Coffee
+Blue Tokai Indiranagar,Blue Tokai,cafe_qsr,12.9715,77.644,Specialty Coffee
+Starbucks Indiranagar 100ft Rd,Starbucks,cafe_qsr,12.978,77.64,Global Cafe
+Starbucks Koramangala 7th Block,Starbucks,cafe_qsr,12.936,77.617,Global Cafe
+Starbucks Whitefield ITPL,Starbucks,cafe_qsr,12.985,77.736,Global Cafe
+Starbucks Church Street,Starbucks,cafe_qsr,12.9745,77.605,Global Cafe
+McDonald's Jayanagar 4th Block,McDonald's,cafe_qsr,12.926,77.593,QSR
+McDonald's Indiranagar,McDonald's,cafe_qsr,12.9775,77.6405,QSR
+Chai Point HSR Layout,Chai Point,cafe_qsr,12.911,77.64,Beverage QSR
+Apollo Pharmacy Koramangala 5th Block,Apollo Pharmacy,pharmacy,12.9355,77.6235,Retail Pharmacy
+Apollo Pharmacy Indiranagar 100ft Rd,Apollo Pharmacy,pharmacy,12.976,77.6415,Retail Pharmacy
+Apollo Pharmacy Jayanagar 4th Block,Apollo Pharmacy,pharmacy,12.925,77.5945,Retail Pharmacy
+Apollo Pharmacy HSR Layout,Apollo Pharmacy,pharmacy,12.913,77.637,Retail Pharmacy
+Apollo Pharmacy Whitefield Main Rd,Apollo Pharmacy,pharmacy,12.969,77.747,Retail Pharmacy
+MedPlus Koramangala,MedPlus,pharmacy,12.9335,77.6255,Retail Pharmacy
+MedPlus BTM Layout 2nd Stage,MedPlus,pharmacy,12.915,77.611,Retail Pharmacy
+MedPlus Malleswaram 8th Cross,MedPlus,pharmacy,13.003,77.565,Retail Pharmacy
+MedPlus Rajajinagar,MedPlus,pharmacy,12.991,77.553,Retail Pharmacy
+Wellness Forever Bellandur,Wellness Forever,pharmacy,12.929,77.679,24/7 Pharmacy
+Zudio Commercial Street,Zudio,fashion,12.981,77.608,Value Fashion
+Zudio Marathahalli,Zudio,fashion,12.955,77.701,Value Fashion
+Zudio Banashankari,Zudio,fashion,12.921,77.556,Value Fashion
+Zudio Yelahanka,Zudio,fashion,13.096,77.595,Value Fashion
+Westside Indiranagar 100ft Rd,Westside,fashion,12.977,77.6395,Departmental Fashion
+Westside Koramangala 80ft Rd,Westside,fashion,12.9365,77.623,Departmental Fashion
+Trends Jayanagar,Trends,fashion,12.9245,77.5925,Apparel Store
+Max Fashion HSR Layout,Max,fashion,12.9105,77.6395,Family Fashion
+H&M Brigade Road,H&M,fashion,12.971,77.6085,Fast Fashion
+Croma Indiranagar 100ft Rd,Croma,electronics,12.9765,77.641,Electronics Superstore
+Croma Koramangala Sony World,Croma,electronics,12.935,77.625,Electronics Superstore
+Croma Marathahalli ORR,Croma,electronics,12.957,77.7,Electronics Superstore
+Croma Jayanagar 4th Block,Croma,electronics,12.925,77.592,Electronics Superstore
+Reliance Digital Whitefield,Reliance Digital,electronics,12.986,77.732,Electronics Superstore
+Reliance Digital HSR Layout,Reliance Digital,electronics,12.9115,77.642,Electronics Superstore
+Poorvika Mobiles Malleswaram,Poorvika,electronics,13.003,77.564,Mobile Retail
+Cult.fit HSR Layout Sector 1,Cult.fit,fitness,12.917,77.649,Fitness Center
+Cult.fit Indiranagar 100ft Rd,Cult.fit,fitness,12.979,77.64,Fitness Center
+Cult.fit Koramangala 5th Block,Cult.fit,fitness,12.934,77.624,Fitness Center
+Cult.fit Bellandur ORR,Cult.fit,fitness,12.931,77.676,Fitness Center
+Gold's Gym Jayanagar,Gold's Gym,fitness,12.923,77.59,Gymnasium
+Anytime Fitness Whitefield,Anytime Fitness,fitness,12.971,77.746,24/7 Gym
+Theobroma Indiranagar 12th Main,Theobroma,bakery,12.9725,77.6435,Patisserie
+Theobroma Koramangala 5th Block,Theobroma,bakery,12.9355,77.623,Patisserie
+Glen's Bakehouse Lavelle Road,Glen's,bakery,12.969,77.601,Bakery Cafe
+Glen's Bakehouse Indiranagar,Glen's,bakery,12.974,77.6425,Bakery Cafe
+Aubree Haute Chocolaterie Sadashivanagar,Aubree,bakery,13.007,77.581,Gourmet Bakery
+Iyengar Bakery Malleswaram,Iyengar Bakery,bakery,13.004,77.566,Traditional Bakery

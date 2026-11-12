@@ -1,0 +1,9 @@
+zone_id,name,pop_density,literacy_rate,households,working_pop_pct,avg_rent_sqft
+Z01,East,16500,0.86,220000,0.51,95
+Z02,West,19500,0.83,240000,0.45,75
+Z03,South,17200,0.88,250000,0.47,85
+Z04,North,13200,0.81,180000,0.46,65
+Z05,Mahadevapura,14800,0.87,260000,0.55,90
+Z06,Bommanahalli,15800,0.87,280000,0.54,105
+Z07,Dasarahalli,14500,0.79,130000,0.44,55
+Z08,Rajarajeshwarinagar,12800,0.82,150000,0.43,58
